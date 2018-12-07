@@ -1,0 +1,18 @@
+h1
+{  
+	color: rgba(240,100,100,1  );
+	border-width: 1px;
+	border-color: purple;
+	border-style: solid;
+}
+h4
+{
+	background: rgba(225,100,80,.8);
+}
+body
+{
+
+	background: url(http://goldwallpapers.com/uploads/posts/beautiful-backgrounds-wallpaper/beautiful_backgrounds_wallpaper_018.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
