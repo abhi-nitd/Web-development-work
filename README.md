@@ -1,1 +1,1 @@
-This is how what all i learned in Web-D.
+This is what all i learned in Web-D.
